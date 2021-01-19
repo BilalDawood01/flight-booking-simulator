@@ -1,6 +1,4 @@
-// ENSF 337 TERM PROJECT 
 // BY BILAL DAWOOD 
-// UCID: 30092405
 // FILE: main.h
 
 #include <iostream>
