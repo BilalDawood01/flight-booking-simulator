@@ -1,4 +1,4 @@
-// BY BILAL DAWOOD 
+// BY BILAL DAWOOD and GUFRAN SABRI
 // FILE: main.cpp
 
 #include <iostream>
@@ -45,7 +45,7 @@ int main(){
 }
 
 void header(){
-    cout<<"Term Project - Flight  Management Program in C++"<<endl<<"Produced by: Bilal Dawood";
+    cout<<"Term Project - Flight  Management Program in C++"<<endl<<"Produced by: Bilal Dawood and Gufran Sabri";
     cout<<endl<<"<<< Press Return to Continue >>>"<<endl; 
     cin.get(); 
 }

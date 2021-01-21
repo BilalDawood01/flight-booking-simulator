@@ -1,4 +1,4 @@
-// BY BILAL DAWOOD 
+// BY BILAL DAWOOD and GUFRAN SABRI
 // FILE: passenger.h
 
 #include <iostream>
